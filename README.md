@@ -1,5 +1,5 @@
 # Industrial-Wireless-Accelero-Gyro-Magneto-Sensor
-Industrial Wireless Accelero Gyro Magneto temperature Sensor With 2 Mile Range Long range wireless IoT Accelero Gyro Magneto sensor can be found over here https://store.ncd.io/iot-long-range-wireless-accelero-gyro-magnteo-and-temp-sensor/
+Industrial Wireless Accelero Gyro Magneto temperature Sensor With 2 Mile Range Long range wireless IoT Accelero Gyro Magneto sensor can be found over here https://store.ncd.io/product/long-range-iot-wireless-accelerometer-gyroscope-magneto-sensor/
 
 this Labview software will work with ncd.io wireless Accelero Gyro Magneto sesnor only
 
